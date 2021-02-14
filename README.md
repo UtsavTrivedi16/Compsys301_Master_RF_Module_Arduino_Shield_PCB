@@ -1,5 +1,8 @@
 # RF-Module-Shield-for-Arduino
-PCB shield for Arduino Uno/Leonardo boards that allows Atmega based processors to send packets via RFM69HCW. This will potentially be used for future students of COMPSYS301 course at The University of Auckland.
+PCB shield for Arduino Uno/Leonardo boards that allows Atmega based processors to send packets via RFM69HCW. This will potentially be used for future students of COMPSYS301 course at The University of Auckland. [Here is a glimpse of the Pacman robot used in the course](https://www.youtube.com/watch?v=HsrKt_Cxeg4). The robot used RF as well as light sensors to navigate paths. This is the Master Module that sends the slave module packets of location information on the map.
+
+## Tools
+Made on EasyEDA. Exported for Altium and EasyEDA
 
 ## Code Libraries for RFM69HCW
 [LowPowerLab](https://github.com/LowPowerLab/RFM69)  
